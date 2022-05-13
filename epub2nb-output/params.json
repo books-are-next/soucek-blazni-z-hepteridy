@@ -1,0 +1,622 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Blázni z Hepteridy",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ludvík Souček",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-08-13T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "blazni_z_hepteridy_001.md",
+            "xhtml": "blazni_z_hepteridy_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_002.md",
+            "xhtml": "blazni_z_hepteridy_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_003.md",
+            "xhtml": "blazni_z_hepteridy_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_004.md",
+            "xhtml": "blazni_z_hepteridy_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_005.md",
+            "xhtml": "blazni_z_hepteridy_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_006.md",
+            "xhtml": "blazni_z_hepteridy_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_007.md",
+            "xhtml": "blazni_z_hepteridy_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_008.md",
+            "xhtml": "blazni_z_hepteridy_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_009.md",
+            "xhtml": "blazni_z_hepteridy_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_010.md",
+            "xhtml": "blazni_z_hepteridy_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_011.md",
+            "xhtml": "blazni_z_hepteridy_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_012.md",
+            "xhtml": "blazni_z_hepteridy_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_013.md",
+            "xhtml": "blazni_z_hepteridy_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_014.md",
+            "xhtml": "blazni_z_hepteridy_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_015.md",
+            "xhtml": "blazni_z_hepteridy_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_016.md",
+            "xhtml": "blazni_z_hepteridy_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_017.md",
+            "xhtml": "blazni_z_hepteridy_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_018.md",
+            "xhtml": "blazni_z_hepteridy_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_019.md",
+            "xhtml": "blazni_z_hepteridy_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_020.md",
+            "xhtml": "blazni_z_hepteridy_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_021.md",
+            "xhtml": "blazni_z_hepteridy_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_022.md",
+            "xhtml": "blazni_z_hepteridy_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_023.md",
+            "xhtml": "blazni_z_hepteridy_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_024.md",
+            "xhtml": "blazni_z_hepteridy_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_025.md",
+            "xhtml": "blazni_z_hepteridy_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_026.md",
+            "xhtml": "blazni_z_hepteridy_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_027.md",
+            "xhtml": "blazni_z_hepteridy_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_028.md",
+            "xhtml": "blazni_z_hepteridy_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "blazni_z_hepteridy_029.md",
+            "xhtml": "blazni_z_hepteridy_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Blázni z Hepteridy",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ludvík Souček",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-08-13T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_001.md",
+        "xhtml": "blazni_z_hepteridy_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_002.md",
+        "xhtml": "blazni_z_hepteridy_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_003.md",
+        "xhtml": "blazni_z_hepteridy_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_004.md",
+        "xhtml": "blazni_z_hepteridy_004.xhtml"
+      },
+      {
+        "titleSuggest": "1\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_005.md",
+        "xhtml": "blazni_z_hepteridy_005.xhtml"
+      },
+      {
+        "titleSuggest": "2\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_006.md",
+        "xhtml": "blazni_z_hepteridy_006.xhtml"
+      },
+      {
+        "titleSuggest": "3\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_007.md",
+        "xhtml": "blazni_z_hepteridy_007.xhtml"
+      },
+      {
+        "titleSuggest": "4\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_008.md",
+        "xhtml": "blazni_z_hepteridy_008.xhtml"
+      },
+      {
+        "titleSuggest": "5\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_009.md",
+        "xhtml": "blazni_z_hepteridy_009.xhtml"
+      },
+      {
+        "titleSuggest": "6\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_010.md",
+        "xhtml": "blazni_z_hepteridy_010.xhtml"
+      },
+      {
+        "titleSuggest": "7\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_011.md",
+        "xhtml": "blazni_z_hepteridy_011.xhtml"
+      },
+      {
+        "titleSuggest": "8\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_012.md",
+        "xhtml": "blazni_z_hepteridy_012.xhtml"
+      },
+      {
+        "titleSuggest": "9\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_013.md",
+        "xhtml": "blazni_z_hepteridy_013.xhtml"
+      },
+      {
+        "titleSuggest": "10\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_014.md",
+        "xhtml": "blazni_z_hepteridy_014.xhtml"
+      },
+      {
+        "titleSuggest": "11\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_015.md",
+        "xhtml": "blazni_z_hepteridy_015.xhtml"
+      },
+      {
+        "titleSuggest": "12\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_016.md",
+        "xhtml": "blazni_z_hepteridy_016.xhtml"
+      },
+      {
+        "titleSuggest": "13\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_017.md",
+        "xhtml": "blazni_z_hepteridy_017.xhtml"
+      },
+      {
+        "titleSuggest": "14\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_018.md",
+        "xhtml": "blazni_z_hepteridy_018.xhtml"
+      },
+      {
+        "titleSuggest": "15\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_019.md",
+        "xhtml": "blazni_z_hepteridy_019.xhtml"
+      },
+      {
+        "titleSuggest": "16\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_020.md",
+        "xhtml": "blazni_z_hepteridy_020.xhtml"
+      },
+      {
+        "titleSuggest": "17\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_021.md",
+        "xhtml": "blazni_z_hepteridy_021.xhtml"
+      },
+      {
+        "titleSuggest": "18\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_022.md",
+        "xhtml": "blazni_z_hepteridy_022.xhtml"
+      },
+      {
+        "titleSuggest": "19\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_023.md",
+        "xhtml": "blazni_z_hepteridy_023.xhtml"
+      },
+      {
+        "titleSuggest": "20\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_024.md",
+        "xhtml": "blazni_z_hepteridy_024.xhtml"
+      },
+      {
+        "titleSuggest": "21\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_025.md",
+        "xhtml": "blazni_z_hepteridy_025.xhtml"
+      },
+      {
+        "titleSuggest": "22\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_026.md",
+        "xhtml": "blazni_z_hepteridy_026.xhtml"
+      },
+      {
+        "titleSuggest": "23\\. kapitola",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_027.md",
+        "xhtml": "blazni_z_hepteridy_027.xhtml"
+      },
+      {
+        "titleSuggest": "Ediční poznámka",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_028.md",
+        "xhtml": "blazni_z_hepteridy_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "blazni_z_hepteridy_029.md",
+        "xhtml": "blazni_z_hepteridy_029.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_blazni_z_hepteridy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-3",
+      "CharOverride-4",
+      "CharOverride-5",
+      "CharOverride-6",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_kurziva_9b",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "soucek-blazni-z-hepteridy"
+    },
+    "generatedAt": 1652420809733
+  }
+}
