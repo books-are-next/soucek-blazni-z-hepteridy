@@ -3,11 +3,9 @@ title: "2\\.\_kapitola"
 contentType: prose
 ---
 
-Jak to, válka? Cožpak mezi vladaři tohoto světa dochází také ke sporům jako u nás na Zemi?
+> _Jak to, válka? Cožpak mezi vladaři tohoto světa dochází také ke sporům jako u nás na Zemi?_
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Všichni byli po večeři, jen malebně rozervaný, odcizený a zmarněný intelektuál Péťa si ještě na zakousnutí vybral nejsypanější housku, strhl průhledný obal a počal ji s mučednickým výrazem a strašlivým skřípotem zbavovat máku a soli, aby opět jednou dokázal všem přítomným vůbec a Kaře zvláště, že je bytostí mimořádnou, obtíženou mnohými podivnůstkami. Mart vhodil špinavé nádobí do palubního anihilátoru a nalil sklenky zelenavého moliorského vína, které jim produkce v záchvatu vzácné velkorysosti přibalila k zásobám.
 

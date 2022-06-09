@@ -3,11 +3,9 @@ title: "17\\.\_kapitola"
 contentType: prose
 ---
 
-Začal jsem již usínat, když tu jsem v povětří spatřil podivuhodného ptáka, on se mi vznáší nad hlavou, udržoval se na místě pohybem tak jemným a tak těžko postřehnutelným, že jsem několikrát zapochyboval, zda to není ještě jeden malý svět, udržovaný v rovnováze vlastním těžištěm.
+> _Začal jsem již usínat, když tu jsem v povětří spatřil podivuhodného ptáka, on se mi vznáší nad hlavou, udržoval se na místě pohybem tak jemným a tak těžko postřehnutelným, že jsem několikrát zapochyboval, zda to není ještě jeden malý svět, udržovaný v rovnováze vlastním těžištěm._
 
-— Cyrano z Begeraku, Cesta do Sluneční říše
-
-  
+> — Cyrano z Begeraku, Cesta do Sluneční říše
 
 „Celkem jsme zase v pořádku,“ oznámil Ligo a otevřel plechovku piva, kterou si zřejmě přinesl ze skladu. Po masité tváři se mu táhl pruh nějakého mazadla a jeho kombinéza prozrazovala, že nadšeně pomáhal opravářům a automatům. Jako obvykle. „Říkám ovšem výslovně ‚celkem‘, Aslane. Něco půjde opravit až doma. Kluci nejvíc nadávají, že nám odešla palubní polyvize. S tou se teď babrat nemůžeme. Zakázal jsem to.“
 

@@ -3,11 +3,9 @@ title: "1\\.\_kapitola"
 contentType: prose
 ---
 
-Jakpak si mohu ověřit všechny tyto pochybnosti, když se tam nahoru nikdy nepodívám? A proč bych nemohl? Vždyť přece Prométheus kdysi v nebi byl, když tam ukradl oheň. Jsem snad já méně smělý než on? A mám snad důvody; proč si od toho slibovat méně zdaru?
+> _Jakpak si mohu ověřit všechny tyto pochybnosti, když se tam nahoru nikdy nepodívám? A proč bych nemohl? Vždyť přece Prométheus kdysi v nebi byl, když tam ukradl oheň. Jsem snad já méně smělý než on? A mám snad důvody; proč si od toho slibovat méně zdaru?_
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 „Dost, už dost!“ zakvílel srdceryvně režisér hlasem Františka z Assisi nebo předsedy klubu přátel zvířat, donucených přihlížet odbornému opékání živé kočky.
 

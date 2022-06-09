@@ -3,11 +3,9 @@ title: "8\\.\_kapitola"
 contentType: prose
 ---
 
-Muž, se kterým jsem mluvil, byl stařec olivové pleti a nejdříve se mi vrhl k nohám; pak sepjal ruce za hlavou, otevřel ústa a zavřel oči. Dlouho něco mezi zuby drmolil, ale nepoznal jsem, že něco říká; a tak jsem to pokládal za blekotání němého.
+> _Muž, se kterým jsem mluvil, byl stařec olivové pleti a nejdříve se mi vrhl k nohám; pak sepjal ruce za hlavou, otevřel ústa a zavřel oči. Dlouho něco mezi zuby drmolil, ale nepoznal jsem, že něco říká; a tak jsem to pokládal za blekotání němého._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 „Je živý?“ informovala se Kara zcela případně. Snědý muž na balvanu, ostřikovaném mořem, nebyl pohyblivější než panák na zadních sedadlech vznášedla a působil rozhodně ještě nepravděpodobněji.
 

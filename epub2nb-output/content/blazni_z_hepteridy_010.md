@@ -3,11 +3,9 @@ title: "6\\.\_kapitola"
 contentType: prose
 ---
 
-Abychom to vysvětlili: musíme vyjít z předpokladu, že jest jen jediný živel; neboť i když vidíme vodu, zemi, vzduch i oheň od sebe oddělené, nikdy nejsou tak dokonale čisté, aby se vzájemně neprostupovaly.
+> _Abychom to vysvětlili: musíme vyjít z předpokladu, že jest jen jediný živel; neboť i když vidíme vodu, zemi, vzduch i oheň od sebe oddělené, nikdy nejsou tak dokonale čisté, aby se vzájemně neprostupovaly._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Martovy představy o Kaře se za těch pár dní poněkud změnily, byť i to nebyla jednoznačně změna k lepšímu. Kara mu teď tak trochu připomínala letitou dámu, okázale a manifestačně neschopnou a bez­radně mávající pažemi (chudinka stará!) jak pelikán, je-li postavena před složitý úkol stisknout správné tlačítko ve výtahu, nevybaveném ještě fonoautomatem, zasahující však s přesností lumka, kladoucího vajíčka do housenky hluboko ve dřevě, jde-li o uplatnění nějaké jedovatosti. Příměr ovšem nebyl zcela správný; Kara nebyla jedovatá, ba nebyla ani zlá. Ale její hra na bezmocnou bytost (chudinka děvčátko!) byla stejně virtuózní a její reakce v případě potřeby stejně přesné a účelné. Pro situaci, v níž se ocitli, to pochopitelně vítal, jenomže ve společnosti Kary Karnové žádný muž nemyslel pouze na přítomnost, zejména pokud sestávala z obhlížení nesmyslně zničených kosmických člunů a hledání ztracených korábů a vysvětlení pro všechny tyhle zmatky. A kdyby snad přece jen myslel, stala by se Kara již kvůli nezbytné sebeúctě jeho smrtelným nepřítelem.
 

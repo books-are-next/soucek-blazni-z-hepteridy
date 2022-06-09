@@ -3,11 +3,9 @@ title: "19\\.\_kapitola"
 contentType: prose
 ---
 
-Moji syndikové, byvše vyzváni, aby vyjevili pravdu, odpověděli, že v zájmu svého svědomí jsou nuceni před soudem prohlásit, že dozajista nejsem opicí, jak o sobě tvrdím.
+> _Moji syndikové, byvše vyzváni, aby vyjevili pravdu, odpověděli, že v zájmu svého svědomí jsou nuceni před soudem prohlásit, že dozajista nejsem opicí, jak o sobě tvrdím._
 
-— Cyrano z Bergeraku, Cesta do Sluneční říše
-
-  
+> — Cyrano z Bergeraku, Cesta do Sluneční říše
 
 „Vy slečno, jako taková vůbec neexistujete. Jste jenom stavem mysli, jen fikcí stamiliónů bláznů, kteří nemají na práci nic lepšího a užitečnějšího než ztrácet čas před obrazovkou. Jste syntetický výrobek reklamního agenta a režiséra. Bohužel, přesto představujete jeden z hlavních problémů, které tu mám,“ hartusil Šéf, přecházeje rozčileně sem a tam po plastikovém koberci, zřejmě zdobícím ještě nedávno interiér nějaké kosmické lodi, což si uvědomoval znovu a znovu s pocitem neosobního rozhořčení.
 

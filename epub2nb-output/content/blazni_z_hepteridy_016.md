@@ -3,11 +3,9 @@ title: "12\\.\_kapitola"
 contentType: prose
 ---
 
-I nejúzkoprsejší filozofie na jejich světě hlásá, že je žádoucnější zemřít než vůbec nebýti, neboť k tomu, aby někdo zemřel, musil předtím žít.
+> _I nejúzkoprsejší filozofie na jejich světě hlásá, že je žádoucnější zemřít než vůbec nebýti, neboť k tomu, aby někdo zemřel, musil předtím žít._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Tobiáš se poněkud podobal oněm takřka profesionálním mučednicím, schopným při čajových večírcích divoce bojovat o nejhorší místo a o nejméně lákavý kousek pečiva, aby ukojily svou touhu po vyplnění nejchmurnějších představ. Situace mu nějakým scestným způsobem poskytovala hluboké zadostiučinění; byla skvělým důkazem a potvrzením zarytého životního pesimismu, protože nikdo ani v nejbujnější fantazii nemohl tušit, že celkem banální exteriér docela banálního dílu naprosto banálního polyvizního seriálu skončí ve skleněné kleci, oddělující dva nejvýznačnější členy štábu od jakýchsi vesmírných potvor s karikaturami stařeckých obličejů uprostřed hvězdicovitých těl. Zatím se neukazovaly – prostor za polarizovaným sklem byl prázdný a pustý, jen kruhový a toliko přivřený otvor stále zel do černé chodby, takže repríza oboustranného představení nebyla vyloučena.
 

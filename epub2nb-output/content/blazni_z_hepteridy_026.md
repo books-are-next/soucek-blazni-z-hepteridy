@@ -3,11 +3,9 @@ title: "22\\.\_kapitola"
 contentType: prose
 ---
 
-Tyto vývody jsou dostačující k tomu, aby tě přiměly vypít onu hořkou číši s potřebnou odevzdaností, nicméně mi zbývají další, ještě závažnější výhody, které bezpochyby pohnou k tomu, že se na ni budeš těšit.
+> _Tyto vývody jsou dostačující k tomu, aby tě přiměly vypít onu hořkou číši s potřebnou odevzdaností, nicméně mi zbývají další, ještě závažnější výhody, které bezpochyby pohnou k tomu, že se na ni budeš těšit._
 
-— Cyrano z Bergeraku, Cesta do Sluneční říše
-
-  
+> — Cyrano z Bergeraku, Cesta do Sluneční říše
 
 „Tak už dost, prosím vás,“ utišil Šéf všeobecný rozruch gestem, které rozhodně bylo mírnější než ta, jež důvěrně znali přičinliví mládenci z Centrální. „Nejde to jinak. Meester ví svoje – nechal analyzovat moje biokarty a docela určitě by mě tu nepřikoval, kdyby to nebylo opravdu nutné. Ostatně proč ten křik? Už dávno jsem si přál někde klidně rybařit a koukat se do nebe a… a podobně. Na Hepteridě to půjde stejně dobře jako na Zemi. Mohu tu třeba ve volných chvílích pást ty rohaté hvězdice. Mimochodem…“
 
