@@ -3,11 +3,9 @@ title: "11\\.\_kapitola"
 contentType: prose
 ---
 
-Nemohl jsem se ubránit smíchu, když jsem slyšel, jak se tu svádějí bitvy podle přísných pravidel; a za příklad věru o mnoho důmyslnější politiky jsem uváděl zvyky naší Evropy, kde vladař neopomine využít jediné výhody; která mu může dopomoci k vítězství.
+> _Nemohl jsem se ubránit smíchu, když jsem slyšel, jak se tu svádějí bitvy podle přísných pravidel; a za příklad věru o mnoho důmyslnější politiky jsem uváděl zvyky naší Evropy, kde vladař neopomine využít jediné výhody; která mu může dopomoci k vítězství._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Šéf mohl, samozřejmě, použít radiovideofonie, ale představa, že by mezi každou otázkou a odpovědí uplynulo nevyhnutelných osmdesát minut (což byla doba, potřebná právě v té době k překlenutí vzdálenosti Země – Saturnův měsíc Titan rychlostí elektromagnetických vln 300 000 km/s) a že by tedy rozhovor docela určitě ztratil bezprostřednost a švih, jej děsila. Několik sekund si vyčítal, že už dávno Aslana nevybavil gravifonií, a pak výčitku rázně zavrhl, protože tihle pánové tak jako tak chtějí mít pokud možno všechno jako dětičky před Vánoci, a požádal příslušnou sekci, aby mu s Aslanem zprostředkovala schůzku na pozemské standardní orbitě. Koneckonců je Aslan o dobrých osmdesát let mladší, ať se tedy trochu namáhá, když už se musí namáhat i sám Šéf. Velkoryse si nepřipustil myšlenku, že to pro něho znamená pár minut v kyvadlovce z letiště docela nedaleko domu a pro Aslana skok mimoprostorem se všemi nepříjemnými fyziologickými následky. A pomyslel-li přece, pak s mírnou škodolibostí, kterou cítil vždycky, když Aslana a jeho mládence něco postihlo. Což nebývalo tak zřídka.
 

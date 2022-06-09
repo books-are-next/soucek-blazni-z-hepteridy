@@ -3,11 +3,9 @@ title: "16\\.\_kapitola"
 contentType: prose
 ---
 
-Pro obyvatele vaší zeměkoule je dobrodiním, že jejich Země nosila člověka, který jim nyní bude moci vyjevit všechny divy Slunce, neboť nebýt vás, hrozilo jim nebezpečí, že budou i nadále žít v hluboké nevědomosti.
+> _Pro obyvatele vaší zeměkoule je dobrodiním, že jejich Země nosila člověka, který jim nyní bude moci vyjevit všechny divy Slunce, neboť nebýt vás, hrozilo jim nebezpečí, že budou i nadále žít v hluboké nevědomosti._
 
-— Cyrano z Bergeraku, Cesta do Sluneční říše
-
-  
+> — Cyrano z Bergeraku, Cesta do Sluneční říše
 
 Castor se zatím pomalu, ale přece každou sekundou vzdaloval od zuřícího týmu biologů, zahrnujících Centrální galaktickou rafinovanými výhrůžkami i zcela prostým nadáváním na skutečnost, že slibný a dávno plánovaný zoologický výzkum Echiny, skrývající unikátní a růžové perspektivy vědeckého uznání za popis nových zajímavých druhů kroužkových červů, byl tak nekvalifikovaným způsobem na neurčito odložen. A to ještě ke všemu kvůli jednomu jedinému cestujícímu, který vypadal na pohled jako docela obyčejný dědek. _Biologické listy,_ jejichž redaktorem jeden z přímo postižených vědců byl, přinesly rozhořčený článek na toto téma, avšak žádoucí ohlas ve veřejném tisku nenastal. Deníky si nehodlaly rozházet Centrální kvůli kroužkovým červům, a už vůbec ne kvůli biologům, a daly to svou nevšímavostí zřetelně najevo.
 

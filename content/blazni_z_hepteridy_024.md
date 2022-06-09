@@ -3,11 +3,9 @@ title: "20\\.\_kapitola"
 contentType: prose
 ---
 
-Avšak procitaje zvolna z vytržení, rozeznával jsem zřetelně slabiky, slova i celou řeč, kterou ke mně pronášel.
+> _Avšak procitaje zvolna z vytržení, rozeznával jsem zřetelně slabiky, slova i celou řeč, kterou ke mně pronášel._
 
-— Cyrano z Bergeraku, Cesta do Sluneční říše
-
-  
+> — Cyrano z Bergeraku, Cesta do Sluneční říše
 
 Jednou ze základních (a profesionálně zcela nezbytných) schopností božské Kary z hvězd i jejich kolegů a kolegyň bylo mimořádně rychlé zotavování z nejrůznějších otřesů, jak je přinášela ušlechtilá polyvizní činnost. Také šok, způsobený drzostí bezvýznamného subalterního redaktůrka Stama, odezněl celkem rychle – poněkud déle ji trápila nesporná skutečnost, že ji odhalení existence jeho ženy a dvou fakanů z nepochopitelných důvodů zasáhlo hlouběji a citelněji. Kara nebyla naštěstí zvyklá na příliš hluboké a důkladné rozbory citů a pohnutek svého chování, takže jí v dané situaci nepřišlo zatěžko zatím všechno z mysli vymazat a soustředit se k okamžité situaci. Mizera Stam počká. Neuteče. Ani by mu to neradila.
 

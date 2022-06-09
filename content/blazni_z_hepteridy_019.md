@@ -3,11 +3,9 @@ title: "15\\.\_kapitola"
 contentType: prose
 ---
 
-Leč malý nebožák, domnívaje se, že takovou smyšlenou báchorku mě nutí vyprávět ukrutní orlové, v jejichž zajetí jsem, nepřikládal mým slovům nižádné víry.
+> _Leč malý nebožák, domnívaje se, že takovou smyšlenou báchorku mě nutí vyprávět ukrutní orlové, v jejichž zajetí jsem, nepřikládal mým slovům nižádné víry._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 „Copak asi dělají Péťa a Tobiáš?“ obohatila Kara řečnickou otázkou všeobecné mlčení, v němž byli všichni přítomní, tedy ona, Mart Stam a stařičký tylku dosud ponoření. Plastikový svalovec Eko Dart s gravifonní stanicí zůstal dnes doma, přesněji řečeno v jedné z jeskyní dolních pater. Pravděpodobnost, že Šéf zavolá právě teď, rozhodně nevyvážila námahu spojenou s taháním panáka po nekonečném schodišti, vytesaném do skály. Tento naprosto nepravděpodobný případ pochopitelně nastal, a spojení nebylo proto dosaženo.
 

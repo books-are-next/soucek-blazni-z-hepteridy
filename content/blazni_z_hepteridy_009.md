@@ -3,11 +3,9 @@ title: "5\\.\_kapitola"
 contentType: prose
 ---
 
-Když jsme si, milé zvířátko, rozdělili v duchu každou viditelnou částečku hmoty na nesčíslné množství neviditelných tělísek, je třeba si představit, že celý nekonečný vesmír se skládá jen z takových nekonečných, velice pevných, nezničitelných a jednoduchých atomů, z nichž některé jsou krychlové, jiné rovnoběžníkové, jiné zas hranaté, kulaté, špičaté, jehlancovité, šestiúhelníkové, oválné a všechny působí jinak, každý podle svého tvaru.
+> _Když jsme si, milé zvířátko, rozdělili v duchu každou viditelnou částečku hmoty na nesčíslné množství neviditelných tělísek, je třeba si představit, že celý nekonečný vesmír se skládá jen z takových nekonečných, velice pevných, nezničitelných a jednoduchých atomů, z nichž některé jsou krychlové, jiné rovnoběžníkové, jiné zas hranaté, kulaté, špičaté, jehlancovité, šestiúhelníkové, oválné a všechny působí jinak, každý podle svého tvaru._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Centrála pochopitelně nevřela vzrušením jednak proto, že si nemohla dovolit vřít ani pro závažnější události, než jakou byla ztráta tří lodí v sektoru Hepteridy, jednak proto, že automatické počítače asi neznají emoce (navzdory opačným tvrzením několika kybernetických romantiků) a je jím naprosto lhostejné, evidují-li housky, nešťastné milence nebo ztracené kosmické koráby. A příslušníci Centrály, tedy lidé, měli právě v těchto dnech na starosti především erupce na Terebře, ohrožující kontinenty, jež musely být evakuovány, podivně zákeřnou a takřka škodolibou infekci v sektoru Laurea, roznesenou na několik planet dříve, než epidemiologové nastražili sluch, a konečně opět jednou další zmatené a neúplné zprávy o setkání s jakýmsi mimozemským inteligentním životem. Posledním důvodem, proč Centrála neburácela vzrušením, bylo, že vlastně jako uzavřená instituce obvyklého typu neexistovala; její pracovníci byli navzájem často tisíce kilometrů vzdáleni a spojeni toliko videofony a duplikátory. Po zdokonalení gravifonie bude dokonce možné – jak se zdálo – rozšířit možnosti umístění představitelů Centrály kdekoli po Galaxii, aniž by došlo k prodlení.
 

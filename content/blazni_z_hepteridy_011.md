@@ -3,11 +3,9 @@ title: "7\\.\_kapitola"
 contentType: prose
 ---
 
-Otázal jsem se ho, mají-li těla jako my. Odpověděl, že ano, že mají těla, ne však jako naše, ani cokoliv jiného, co si pod slovem tělo dovedeme představit.
+> _Otázal jsem se ho, mají-li těla jako my. Odpověděl, že ano, že mají těla, ne však jako naše, ani cokoliv jiného, co si pod slovem tělo dovedeme představit._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Kdyby byl Péťa Pritt věnoval alespoň tolik času kosmické literatuře z přelomu novověku a kosmověku jako budižkničemu Mart Stam, připadala by mu situace, v níž se ocitl, podivně známou: přesně v takové se totiž už kdysi dávno ocitli učený profesor Aronnax, statečný Ned Land i neochvějně věrný Conseil a téměř současně s nimi (ačkoli na druhé straně světa) strýc Prudent a Phil Evans, okrasy Weldonova klubu, doprovázení nezbytnou figurkou mírně debilního černocha, nahrazujícího veselou zápletku, Frycollinem. Ti všichni byli také uneseni naprosto neočekávaně a překvapujícími způsoby, ať již mlčenlivým kapitánem a melancholikem Nemem, zbavujícím se svých depresí hrou (na rozdíl od houslisty Sherlocka Holmese na varhany), či neméně zamlklým, ale naopak cholerickým Roburem Dobyvatelem. V každém případě se ocitli stejně jako všichni vyjmenovaní v uzavřené místnosti bez jakéhokoli vybavení, bez výhledu a, jak se alespoň na první pohled zdálo, bez východu.
 

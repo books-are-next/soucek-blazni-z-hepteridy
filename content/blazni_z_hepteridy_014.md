@@ -3,11 +3,9 @@ title: "10\\.\_kapitola"
 contentType: prose
 ---
 
-Rovněž tak odpovídá zdravému rozumu, že příčina zrodu je umístěna uprostřed všech těles, aby na ně mohla stejnou měrou a co nejlépe působit, podobně jako moudrá Příroda umístila plodidla v člověku, jadérka doprostřed jablek a pecky do středu každého plodu; a podobně jako cibule ukrývá pod obalem množství slupek onen drahocenný zárodek, z něhož může čerpat deset miliónů dalších cibulí.
+> _Rovněž tak odpovídá zdravému rozumu, že příčina zrodu je umístěna uprostřed všech těles, aby na ně mohla stejnou měrou a co nejlépe působit, podobně jako moudrá Příroda umístila plodidla v člověku, jadérka doprostřed jablek a pecky do středu každého plodu; a podobně jako cibule ukrývá pod obalem množství slupek onen drahocenný zárodek, z něhož může čerpat deset miliónů dalších cibulí._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Mart byl hluboce přesvědčen, že obě křesla, jež podle opotřebování zřejmě kdysi sloužila v nějakém kosmickém korábu (patrně v jednom z těch, které Šéf tak usilovně hledal), byla přinesena jen pro tuto příležitost. Zdvořile vyčkal, až usedne Kara. Bez rafinovaného make-upu vypadala po noci strávené na lůžku z kožešin, nikoli v objetí superrealistického a negenerujícího silového pole, a po šoku, který jí způsobilo zjištění, že ze sprchy, jejíž obsluhu konečně přece jen pracně rozluštila, teče pouze voda, jako sestra proslulé Kary Karnové. Možná mladší sestra, ale podle vlastního úsudku sestra zanedbaná a zjevně hlodaná těžkou chorobou.
 
@@ -217,4 +215,4 @@ Mart polkl.
 
 * * *
 
-[1](./resources/undefined) Věřím, protože je to nesmyslné. Pozn. red.
+_[1](./resources/undefined) Věřím, protože je to nesmyslné. _Pozn. red.__

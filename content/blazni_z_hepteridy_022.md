@@ -3,11 +3,9 @@ title: "18\\.\_kapitola"
 contentType: prose
 ---
 
-Obviňují ho, že po celých šest let dosud nebyl hoden mít přítele, pročež byl odsouzen k tomu, že bude králem, a to králem lidu jiného plemene, než k jakému on sám náleží.
+> _Obviňují ho, že po celých šest let dosud nebyl hoden mít přítele, pročež byl odsouzen k tomu, že bude králem, a to králem lidu jiného plemene, než k jakému on sám náleží._
 
-— Cyrano z Bergeraku, Cesta do Sluneční říše
-
-  
+> — Cyrano z Bergeraku, Cesta do Sluneční říše
 
 Záchranné čluny Castoru (jako ostatně záchranné čluny všech osobních interstelárních korábů) byly konstruovány na zásadě možnosti pilotování mírně debilním děckem. Lépe a výstižněji řečeno na zásadě povelového řízení. Technickou stránku letu obstarávaly automaty – nebylo možné očekávat, že v případě havárie bude mezi cestujícími dost vyučených pilotů-kosmonautů, aby bylo možné řešit záchranu lidí jinak a méně nákladně. Šéf si v duchu gratuloval, že tento princip už před dvaceti lety prosadil, aniž ovšem tenkrát tušil, jak plně jej využije.
 

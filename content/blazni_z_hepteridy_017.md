@@ -3,11 +3,9 @@ title: "13\\.\_kapitola"
 contentType: prose
 ---
 
-Uvažte sami, že bez té náhody bych jistě byl tisíceronásobně mrtev.
+> _Uvažte sami, že bez té náhody bych jistě byl tisíceronásobně mrtev._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Zvláštní zpráva: _Včera odpoledne nalezla skupina horolezců, chystajících se k výstupu na doposud nezlezený horský vrchol na hranicích Tibetu a Nepálu, dva zcela vysílené muže v lehkých kosmických oblecích a bez jakéhokoliv vybavení, dokonce i bez dopravních prostředků, jež by vysvětlovaly jejich pobyt v této málo navštěvované krajině, chráněné jako přírodní a turistická rezervace. Podle dokladů se zdá, že oběťmi podivné příhody jsou známí tvůrci pracovníci polyvize, režisér P. P. a kameraman T. Z., kteří měli právě v těchto dnech pracovat s proslulou představitelkou „nového proudu“ Karou Karnovou na dalším dílu oblíbeného seriálu, ovšem nikoli v Himálaji, ale mimo Zemi. P. P. i T. Z. odmítli podat s poukazem na své vyčerpání jakékoli vysvětlení – zpráva se však velmi brzy rozšířila a hotel v Nehrúbádu, kde byli přechodně ubytováni, byl záhy obležen několika sty obdivovateli božské Kary, dožadujícími se zpráv o svém idolu. Náš zvláštní zpravodaj velmi agilně zorganizoval rozhovor delegace tohoto shromáždění s P. P. i T. Z., nebyl však k oběma zachráněným umělcům vpuštěn zásahem orgánů Centrály; které se zcela nepochopitelně a netaktně do celé záležitosti vmísily, a dokonce dopravily dosud vyčerpané nezotavené oběti příhody na neznámé místo._
 

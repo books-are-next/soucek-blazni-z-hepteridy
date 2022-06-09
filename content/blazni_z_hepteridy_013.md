@@ -3,11 +3,9 @@ title: "9\\.\_kapitola"
 contentType: prose
 ---
 
-„Ale víte,“ dodal pak, „jakou směšnou rozepři jsem měl kvůli vám s našimi církevními otci? Tvrdí, že jste čarodějník, a nedají si to vymluvit; největší milosti pak u nich můžete dojít, když budete považován jen za podvodníka.“
+> _„Ale víte,“ dodal pak, „jakou směšnou rozepři jsem měl kvůli vám s našimi církevními otci? Tvrdí, že jste čarodějník, a nedají si to vymluvit; největší milosti pak u nich můžete dojít, když budete považován jen za podvodníka.“_
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Šéf ještě seděl ve své pracovně, ačkoli již dávno uplynula maximální lékaři doporučená denní pracovní doba, o předepsané ani nemluvě. Ty zatracené sopky na Terebře řádily jako pominuté a stupňovaly svou činnost hodinu od hodiny. Patrně nevěděly o uklidňujících předpovědích vulkanologů, zašklebil se Šéf. Takhle to dopadne, přehání-li se pozemský patriotismus a považuje-li se kdejaká planeta za rodnou sestřičku nenahraditelné a závazně vzorové Země. Vulkány Terebry teď plivají lávu kosmickou rychlostí na oběžnou dráhu kolem planety a v tom zmatku přistávají, kde se dá i kde se vlastně vůbec nedá, koráby a čluny odvelené ze všech čtyř sousedních sektorů, aby odvezly alespoň nejcennější a nejméně nahraditelná zařízení. Lidé už jsou naštěstí pryč. To by tak ještě chybělo!
 

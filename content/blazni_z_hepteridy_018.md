@@ -3,11 +3,9 @@ title: "14\\.\_kapitola"
 contentType: prose
 ---
 
-… ježto brázdil širý nebeský prostor letem nepříliš spěšným, mohl jsem ho sledovat zrakem i krokem dosti snadno.
+> _… ježto brázdil širý nebeský prostor letem nepříliš spěšným, mohl jsem ho sledovat zrakem i krokem dosti snadno._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Aslan byl po celou dobu svého velení Výzkumné skupině hluboce vděčen prozřetelnosti, že skupina zůstává přísně utajovanou a že nepořádá parády a přehlídky, o nichž ze svých historických studií věděl. Uvědomoval si to takřka denně, ačkoli by ho už dávno neměli překvapovat štíhlí a asteničtí obyvatelé planet s nízkou gravitací, opatření při práci na hmotnějších kosmických tělesech podpůrnými biomechanickými přístroji, ani zcela opačně vyhlížející přírůstky z kolonií obřích planet, sotva poloviční velikosti, zato však s mohutně vyvinutou kostrou a tak bohatou tvorbou krve (která se především vyrovnává s gravitací), že byli za jistých okolností schopni setrvat například pod vodní hladinou i bez akvalungu docela imponující dobu, na Zemi, nebo dokonce na Měsíci se však pohybovali nejistě, ba poněkud – Aslan byl schopen si to přiznat – směšně, což ovšem nic neříkalo o kvalitách, potřebných pro službu ve Výzkumné skupině. Frol, který se jako jediný mohl pochlubit usmrcením fredegarské supersépie (ačkoli se z toho těšil jen několik málo následujících sekund), byl například právě z gravicilních a křehkých kolonistů Pergamy, velké a hmotné sotva jako pozemský Měsíc, a přece…
 

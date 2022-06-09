@@ -3,11 +3,9 @@ title: "21\\.\_kapitola"
 contentType: prose
 ---
 
-Zbývá mi nyní ještě vysvětlit vám, proč duše filozofů nesplynou celou svou podstatou s hmotou sluneční, jak je tomu u duší jiných lidí.
+> _Zbývá mi nyní ještě vysvětlit vám, proč duše filozofů nesplynou celou svou podstatou s hmotou sluneční, jak je tomu u duší jiných lidí._
 
-— Cyrano z Bergeraku, Cesta do Sluneční říše
-
-  
+> — Cyrano z Bergeraku, Cesta do Sluneční říše
 
 „Když si představím, že jsem vás mohla praštit ještě víc,“ hořekovala Kara kajícně, „vaše děti…“
 

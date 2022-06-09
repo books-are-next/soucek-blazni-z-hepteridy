@@ -3,11 +3,9 @@ title: "23\\.\_kapitola"
 contentType: prose
 ---
 
-Nuže, železo se živí magnetem a magnet železem; což jest tak zjevné, že nesvedeme-li je dohromady, aby mohl každý nahradit ztrátu své substance, železo reziví a magnet ztrácí sílu.
+> _Nuže, železo se živí magnetem a magnet železem; což jest tak zjevné, že nesvedeme-li je dohromady, aby mohl každý nahradit ztrátu své substance, železo reziví a magnet ztrácí sílu._
 
-— Cyrano z Bergeraku, Cesta do sluneční říše
-
-  
+> — Cyrano z Bergeraku, Cesta do sluneční říše
 
 Zelené slunce Hepteridy stálo vysoko na obloze a moře bylo naprosto stejné jako před tisíci, desetitisíci a statisíci lety. Duhové koule datů pomalu, téměř rozkošnicky stoupaly do výše a rozpadaly se v hejna čehosi podobného motýlům.
 

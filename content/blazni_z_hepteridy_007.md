@@ -3,11 +3,9 @@ title: "3\\.\_kapitola"
 contentType: prose
 ---
 
-To, co jsem vám právě vyložil, není jen nějaký zábavný nesmysl.
+> _To, co jsem vám právě vyložil, není jen nějaký zábavný nesmysl._
 
-— Cyrano z Bergeraku, Cesta na Měsíc
-
-  
+> — Cyrano z Bergeraku, Cesta na Měsíc
 
 Mart byl druhého dne neočekávaně zproštěn povinnosti vymýšlet si další sabotáže ušlechtilého díla trojice Péťa – Tobiáš – Kara, o své skromné redaktorské účasti ani nemluvě. S Hepteridou se cos neočekávaného dělo, soudě alespoň podle nepříliš četných zpráv, které o ní přinesly pilné včeličky automatických sond, dvě nebo tři výpravy biologů (přilákaných signály bioindikátorů sond hlásícími obrovské živé tvory, z nichž se nakonec vyklubala politováníhodné hovada, hepteridští turové) a jedna expedice geologů (přilákaná škodolibými biology, kteří, jak se ukázalo, nedovedli rozeznat diamant od prachsprostého safíru, nebo to alespoň předstírali). Všechny referáty se totiž shodovaly na trvale slunném a jasném počasí a klimatu tak stálém, že by mohlo být snem všech filmařů a turistických cestovních kanceláří.
 
