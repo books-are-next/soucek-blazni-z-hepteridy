@@ -3,6 +3,8 @@ title: "18\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Obviňují ho, že po celých šest let dosud nebyl hoden mít přítele, pročež byl odsouzen k tomu, že bude králem, a to králem lidu jiného plemene, než k jakému on sám náleží._
 
 > — Cyrano z Bergeraku, Cesta do Sluneční říše
@@ -72,3 +74,5 @@ Mart zděšeně očekával, co se bude dít. Pokud Šéfa znal – jako že ho 
 Mart trochu nervózně sledoval oblohu, kde se mohl kdykoli objevit černý raketoplán, jehož zásluhou byl zničen člun a božská Kara odsouzena k pobytu na planetě bláznů, ponravovitých turů a nepochopitelných událostí, ne-li dokonce ještě něčeho horšího.
 
 „Doporučuji nastupovat, panstvo… pardon, bratři,“ dodal pak tiše, aby jej slyšel jen Šéf, a pokynul rukou k vznášedlu.
+
+</section>

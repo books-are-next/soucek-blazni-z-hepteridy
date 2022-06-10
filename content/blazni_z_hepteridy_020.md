@@ -3,6 +3,8 @@ title: "16\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Pro obyvatele vaší zeměkoule je dobrodiním, že jejich Země nosila člověka, který jim nyní bude moci vyjevit všechny divy Slunce, neboť nebýt vás, hrozilo jim nebezpečí, že budou i nadále žít v hluboké nevědomosti._
 
 > — Cyrano z Bergeraku, Cesta do Sluneční říše
@@ -70,3 +72,5 @@ Pilot neodpověděl. Přehrával na zablokovaných, a tudíž z provozu zcela 
 „Nemám tušení,“ odpověděla polichoceně. „Ale je to legrační. Nezdá se vám?“
 
 „K popukání,“ řekl rezervovaně. Na důvěrnosti je dost času.
+
+</section>

@@ -3,6 +3,8 @@ title: "20\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Avšak procitaje zvolna z vytržení, rozeznával jsem zřetelně slabiky, slova i celou řeč, kterou ke mně pronášel._
 
 > — Cyrano z Bergeraku, Cesta do Sluneční říše
@@ -56,3 +58,5 @@ Pak zabublala vroucí hrachová polévka. To Ligo dával najevo své hluboké op
 „Teď už se s nimi jděte vycpat, vy operetní válečná nádhero…,“ navrhl Mart a posadil se, opřen zády o balvan. Kolem dokola stál takřka úplný kruh fantasticky vysokých stříbrných chlapíků, kteří by uvedli do extáze každého terránského trenéra košíkové. Pokud to bylo vůbec možné, valili oči ještě více než obvykle. U boků jim viselo v pouzdrech cosi, co se nápadně podobalo anihilátorům nebo malým paprskometům, ale nezdálo se, že by některý z nich pomýšlel na jejich použití.
 
 „Prosím za prominutí, jestli ruším,“ řekl Šéf velmi rezolutně, téměř hrubě odsunul dva stříbrné čahouny, kteří mu na stezce bránili v cestě. „Nerad zasahuji do vašich originálních zábav, ale strašně rád bych se konečně dověděl, co se tu vlastně děje.“
+
+</section>

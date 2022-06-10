@@ -3,6 +3,8 @@ title: "5\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Když jsme si, milé zvířátko, rozdělili v duchu každou viditelnou částečku hmoty na nesčíslné množství neviditelných tělísek, je třeba si představit, že celý nekonečný vesmír se skládá jen z takových nekonečných, velice pevných, nezničitelných a jednoduchých atomů, z nichž některé jsou krychlové, jiné rovnoběžníkové, jiné zas hranaté, kulaté, špičaté, jehlancovité, šestiúhelníkové, oválné a všechny působí jinak, každý podle svého tvaru._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -76,3 +78,5 @@ Ten kluk není hloupý. Dobře že jsou u počítačů také lidské mozky.
 „Tam nebo tam. A kdoví, jestli to náhodou nebylo v kursu Hep­teridy. Možná že by to stará Phoebe byla ještě dokázala. Víte přece, jakým fofrem se koráby vyřazují…“
 
 „Vím,“ přikývl Šéf. „Až moc dobře, mládenče.“
+
+</section>

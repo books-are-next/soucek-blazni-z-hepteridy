@@ -3,6 +3,8 @@ title: "2\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Jak to, válka? Cožpak mezi vladaři tohoto světa dochází také ke sporům jako u nás na Zemi?_
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -94,3 +96,5 @@ Když se vrátil do společného iglú, zastihl už jen Péťu a Tobiáše. Kar
 „Doufám, že je na zítřek všechno připraveno, Stame,“ otázal se melancholicky a zjevně bez zvláštního zájmu.
 
 „Musím to ještě trochu promyslet, pane Pritte,“ odpověděl servilně Mart, „ale doufám, že to klapne.“
+
+</section>

@@ -3,6 +3,8 @@ title: "3\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _To, co jsem vám právě vyložil, není jen nějaký zábavný nesmysl._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -84,3 +86,5 @@ Nakonec se odvážil pohladit Karu po ruce.
 „Je mi moc líto, slečno Karnová, ale pravděpodobně to byl náš člun. Doufám, že pan Pritt i Tobiáš jsou v pořádku. Hned se tam vypravíme. Nějak to všechno dopadne, uvidíte!“
 
 Hluboce si uvědomoval hrubé blokování informací. Neřekl totiž Kaře, co věděl od samého počátku jejich společné vyjížďky: Hydrus 17 nebyl na oběžné dráze. Zmizel. A Hydrus 17 byla kosmická loď, která je dopravila ze Země na Hepteridu.
+
+</section>

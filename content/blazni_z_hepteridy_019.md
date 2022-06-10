@@ -3,6 +3,8 @@ title: "15\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Leč malý nebožák, domnívaje se, že takovou smyšlenou báchorku mě nutí vyprávět ukrutní orlové, v jejichž zajetí jsem, nepřikládal mým slovům nižádné víry._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -110,3 +112,5 @@ Tylku rozložil několik dalších soust na balvany a hvězdice váhavě násle
 „Vy se domníváte, že tihle… tyhle… ti tvorové postavili kosmickou loď a že ji řídili?“ užasl Mart.
 
 „Ne, to ne,“ pousmál se tylku a mimovolně si otíral dlaň v místě, kde se dotkla hvězdice. „Neuražte se, prosím, ale tak zlé to s nimi přece jen není. Soudě podle prvních a nedostatečných kontaktů mají smysl i pro závažnější věci. Nebo zárodek takového smyslu, ale čas zmůže mnoho, pane Stame.“
+
+</section>

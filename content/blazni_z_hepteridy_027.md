@@ -3,6 +3,8 @@ title: "23\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Nuže, železo se živí magnetem a magnet železem; což jest tak zjevné, že nesvedeme-li je dohromady, aby mohl každý nahradit ztrátu své substance, železo reziví a magnet ztrácí sílu._
 
 > — Cyrano z Bergeraku, Cesta do sluneční říše
@@ -68,3 +70,5 @@ Násilně přerušil myšlenky. Koráb se pomalu a opatrně, teď už rytmický
 Tylku přikývl a pomalými krůčky sestupoval ke břehu. Šéf přimhouřil oči, do nichž mu svítilo Zelené slunce Hepteridy, klonící se pomalu k obzoru.
 
 Půjde to. Určitě to půjde. S těmihle lidmi ano.
+
+</section>

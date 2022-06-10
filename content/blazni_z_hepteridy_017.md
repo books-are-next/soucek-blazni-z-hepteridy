@@ -3,6 +3,8 @@ title: "13\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Uvažte sami, že bez té náhody bych jistě byl tisíceronásobně mrtev._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -132,3 +134,5 @@ Tentokrát nechal telestěnu vypnutou. Tušil, že nevypadá tak, aby jako obvyk
 Opřel se do křesla s plným vědomím zprávy, jež se právě teď nese po Centrále, přeskakuje z oddělení do oddělení a ze sekce do sekce, za chvíli dospěje na Terru III a o něco později do měsíčních kolonií, na Mars a ještě dál, kam už dosáhne fonie: dědek se konečně zbláznil.
 
 Tiše se zachechtal, ačkoli mu vlastně vůbec nebylo do smíchu.
+
+</section>

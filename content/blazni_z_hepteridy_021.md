@@ -3,6 +3,8 @@ title: "17\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Začal jsem již usínat, když tu jsem v povětří spatřil podivuhodného ptáka, on se mi vznáší nad hlavou, udržoval se na místě pohybem tak jemným a tak těžko postřehnutelným, že jsem několikrát zapochyboval, zda to není ještě jeden malý svět, udržovaný v rovnováze vlastním těžištěm._
 
 > — Cyrano z Begeraku, Cesta do Sluneční říše
@@ -94,3 +96,5 @@ Teprve teď se Aslanovi zdálo, že se Šéf opět poněkud dostal do formy. Zno
 „Všem! Plnou bojovou pohotovost, připravit k boji! Přecházíme na novou oběžnou dráhu…“ Atakdále, atakdále. Když skončil vydávání složitých pokynů a vypnul interkom, obrátil se k Ligovi. „A jedno pivo. Nejsem si tak docela jistý, kolik ho ještě v tomhle krásném a útulném vesmíru vypijeme, Ligo!“
 
 Ligo přelétl pohledem zpod kosmatého obočí obrazovku, kde naskakoval countdown do setkání s novou kosmickou lodí. „Mělo by to vyjít na dvě a při troše snahy na tři piksly,“ poznamenal a plavně poslal plechovku beztížným prostorem k veliteli galaktické soldatesky.
+
+</section>

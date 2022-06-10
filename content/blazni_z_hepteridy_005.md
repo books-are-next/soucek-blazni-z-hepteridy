@@ -3,6 +3,8 @@ title: "1\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Jakpak si mohu ověřit všechny tyto pochybnosti, když se tam nahoru nikdy nepodívám? A proč bych nemohl? Vždyť přece Prométheus kdysi v nebi byl, když tam ukradl oheň. Jsem snad já méně smělý než on? A mám snad důvody; proč si od toho slibovat méně zdaru?_
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -42,3 +44,5 @@ Chudák tur, jehož vlastnosti pan Wells takřka zázračně předpověděl i c
 A tak kopal Mart do bělavého měkkého masa, kam se špička boty nořila jak do huspeniny, s energií znásobenou zřejmou netrpělivostí božské Kary i roztržitě nepřítomným Péťovým pohledem, signalizujícím naprosto zřejmou nevýznamnost, ba téměř neexistenci redaktora zdržujícího svou neobratností odjezd.
 
 Tur se konečně s uraženým bekotem, odpovídajícím očekávanému hlasovému projevu tvora nejméně stokrát menšího, odvalil do bezpečné vzdálenosti, kde jej zítra docela určitě naleznou uprostřed spaseného kruhu vegetace a odkud bude možné dokopat jej zase bez nesnází zpět na scénu. Mart si otřel z čela krůpěje potu a vyhoupl se za doprovodu významného Kařina povzdechnutí, jak nekonečně dlouho trval tak prostý a primitivní výkon, za řízení vznášedla. Motor s tichým bzučením naskočil. Opět jeden zničený filmovací den odešel k předkům.
+
+</section>
