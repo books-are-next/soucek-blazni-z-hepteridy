@@ -3,6 +3,8 @@ title: "9\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _„Ale víte,“ dodal pak, „jakou směšnou rozepři jsem měl kvůli vám s našimi církevními otci? Tvrdí, že jste čarodějník, a nedají si to vymluvit; největší milosti pak u nich můžete dojít, když budete považován jen za podvodníka.“_
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -92,3 +94,5 @@ V příštích deseti minutách několikrát zuřivě zahnal z šelestěny př
 „Teď vás poznávám naprosto bezpečně,“ řekl Šéf truchlivě. „Úpadek hodnot. Žádná úcta k stáří. Mládež je mimospolečenská a protispolečenská skupina.“
 
 „Končím,“ prohlásil Šéf upjatě a odpojil přístroj. Mladíkovi, který vykrystalizoval na telestěně, oznámil: „Můžete dát frekvenci epidsekci. A když bude někdo chtít Terebru, tak ho taky spojte alespoň na půl hodiny. Třeba tam umírají nudou,“ dodal kousavě. Pak si konečně dopřál luxus skončení pracovního dne stodvacetiletého slušně zachovalého pána v odpovědném postavení.
+
+</section>

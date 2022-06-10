@@ -3,6 +3,8 @@ title: "14\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _… ježto brázdil širý nebeský prostor letem nepříliš spěšným, mohl jsem ho sledovat zrakem i krokem dosti snadno._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -84,3 +86,5 @@ Aslan podvědomým pohybem vylovil z kapsy kombinézy želatinovou kapsli s hy
 Aslan se otočil od velitelského panelu. Havarijní signalizační světla postupně zhasínala. Mužové výzkumné skupiny se již pustili do práce. Na chodbě lodi bylo slyšet rachocení – nějaká skupina patrně dopravovala opravářské automaty na místa poškození.
 
 „Úplně, Ligo,“ odpověděl Aslan a otřel si hřbetem ruky krev, prýštící z roztrženého rtu. „Teď jsme na tahu my, kamaráde.“
+
+</section>

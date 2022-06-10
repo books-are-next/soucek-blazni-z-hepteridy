@@ -3,6 +3,8 @@ title: "10\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Rovněž tak odpovídá zdravému rozumu, že příčina zrodu je umístěna uprostřed všech těles, aby na ně mohla stejnou měrou a co nejlépe působit, podobně jako moudrá Příroda umístila plodidla v člověku, jadérka doprostřed jablek a pecky do středu každého plodu; a podobně jako cibule ukrývá pod obalem množství slupek onen drahocenný zárodek, z něhož může čerpat deset miliónů dalších cibulí._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -216,3 +218,5 @@ Mart polkl.
 * * *
 
 _[1](./resources/undefined) Věřím, protože je to nesmyslné. _Pozn. red.__
+
+</section>

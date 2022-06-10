@@ -3,6 +3,8 @@ title: "4\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _… byl schopen vydat mě psům napospas, kdybych se nebyl náhodou dovtípil, co je asi proti mně tak poštvalo, totiž sám Měsíc, odkud jsem přiletěl._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -60,3 +62,5 @@ Projevila jen mírné překvapení. „Jak dlouho to víte?“
 „Za dva tři měsíce, slečno Karnová. Nejpozději. Propána, co to děláte?“
 
 Božská Kara provedla zcela nepředstíraně to, co bývalo předností gotických rytířů, vyhledávajících sice draky, ale bystře ztrácejících vědomí vždy, když měli dokázat, že jim pod cizelovaným krunýřem bije srdce něžné a citlivé: sesula se s tichým zaklokotáním mezi voňavé kvítky Hepteridy dříve, než pošetilý Mart, kterého podobná možnost ani nenapadla, oběhl vznášedlo.
+
+</section>

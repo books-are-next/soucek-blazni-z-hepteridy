@@ -3,6 +3,8 @@ title: "7\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Otázal jsem se ho, mají-li těla jako my. Odpověděl, že ano, že mají těla, ne však jako naše, ani cokoliv jiného, co si pod slovem tělo dovedeme představit._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -66,3 +68,5 @@ Péťa Pritt několikrát polkl. „Snad klapají jenom na své vlastní obrazy.
 Péťa projevil bleskurychlou regenerační schopnost, v polyvizi naprosto nezbytnou.
 
 „Taky jsem už na to myslel. Já bych je ovšem navrhl animátorům daleko věrohodnější. Tohleto byla jenom příroda, Tobiáši. Obyčejný amatérismus.“
+
+</section>

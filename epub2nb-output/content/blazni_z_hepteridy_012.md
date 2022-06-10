@@ -3,6 +3,8 @@ title: "8\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Muž, se kterým jsem mluvil, byl stařec olivové pleti a nejdříve se mi vrhl k nohám; pak sepjal ruce za hlavou, otevřel ústa a zavřel oči. Dlouho něco mezi zuby drmolil, ale nepoznal jsem, že něco říká; a tak jsem to pokládal za blekotání němého._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -106,3 +108,5 @@ Mart zatajil dech. To byl úžasný objev. Reliéf vznikl zřejmě dávno před 
 „Ovšem, hepterida, sedmiveslice. Vytesali ji zde první lidé, kteří Hepteridu navštívili a dali jí jméno.“
 
 Mart se na něho chvíli díval, dotkl se reliéfu, aby se přesvědčil, že to není halucinace ani šelestěna s polyvizní projekcí, nadhodil si na rameni Eko Darta a rezignovaně prohlásil: „Prima. Takže můžeme zase jít dál…“
+
+</section>

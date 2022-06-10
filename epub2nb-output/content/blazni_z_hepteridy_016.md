@@ -3,6 +3,8 @@ title: "12\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _I nejúzkoprsejší filozofie na jejich světě hlásá, že je žádoucnější zemřít než vůbec nebýti, neboť k tomu, aby někdo zemřel, musil předtím žít._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -86,3 +88,5 @@ Ačkoli nebyli vybaveni rohovitými výrůstky, povolil závěr docela snadno. N
 V okolí se zatím nic nehýbalo. Celkem bez obtíží sešplhali po jedné ze žebrovaných opěr korábu, kde byli uvězněni, na kamenitou pláň, ozdobenou tu a tam živořícím stéblem místní trávy. V instinktivním předklonu přiběhli k té VĚCI, která by je měla v případě potřeby docela dobře ukrýt jako labyrint – rostla nad nimi každým krokem spletí přeražených nosníků, zprohýbaných plátů obšívky a beznadějně zamotaných kabelů a trubic jako mrakodrap. Občas se ozvalo zarachocení nebo cinknutí; to nějaká uvolněná součástka v nitru hory trosek přičinlivě zvýšila entropii vesmíru a propadla se, jakož gravitace kázala jí, o několik poschodí níže.
 
 Podnikavější Péťa Pritt obešel zmuchlanou věž katedrály, jež snad kdysi byla stabilizátorem. Vysoko, tak vysoko, že musel nepohodlně zaklonit hlavu, uviděl na části trupu, jež se zachovala, začouzená zprohýbaná, avšak čitelná několikametrová písmena: CAPAX 37.
+
+</section>

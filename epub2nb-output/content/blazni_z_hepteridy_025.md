@@ -3,6 +3,8 @@ title: "21\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Zbývá mi nyní ještě vysvětlit vám, proč duše filozofů nesplynou celou svou podstatou s hmotou sluneční, jak je tomu u duší jiných lidí._
 
 > — Cyrano z Bergeraku, Cesta do Sluneční říše
@@ -194,3 +196,5 @@ Už po několika krocích Kara zjistila, že Péťa Pritt cosi volá a zjevně 
 Kara z hvězd se držela Marta ještě silněji a vlekla ho za sebou, což se stalo konečně zjevným i záhadnému intelektuálovi Péťovi.
 
 „Karo, co jste mi to udělala…?“ zakvílel hlasem Františka z Assisi, s nímž jsme se však seznámili již v úvodu.
+
+</section>

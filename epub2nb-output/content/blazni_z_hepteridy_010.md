@@ -3,6 +3,8 @@ title: "6\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Abychom to vysvětlili: musíme vyjít z předpokladu, že jest jen jediný živel; neboť i když vidíme vodu, zemi, vzduch i oheň od sebe oddělené, nikdy nejsou tak dokonale čisté, aby se vzájemně neprostupovaly._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -58,3 +60,5 @@ A pak jej uviděl. Na jednom z balvanů stál nehnutě muž v jakémsi výst�
 „Možná že to tu tak _docela_ opuštěné není, pane Stame!“ zavrkala sladkým hlasem, uvádějícím Galaxii do vytržení.
 
 Mart jenom zíral.
+
+</section>

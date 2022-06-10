@@ -3,6 +3,8 @@ title: "22\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Tyto vývody jsou dostačující k tomu, aby tě přiměly vypít onu hořkou číši s potřebnou odevzdaností, nicméně mi zbývají další, ještě závažnější výhody, které bezpochyby pohnou k tomu, že se na ni budeš těšit._
 
 > — Cyrano z Bergeraku, Cesta do Sluneční říše
@@ -92,3 +94,5 @@ Nastalo velké ticho. První se vzpamatoval Šéf.
 „To docela určitě, Šéfe,“ odpověděl Mart. Hlas se mu třásl. Kara brečela zcela nezakrytě a Tobiáš i Péťa na chvíli vypadli z oblíbených rolí. Jen tylku pozoroval s kamennou tváří moře, vlnící se pod nimi.
 
 „Takže si tu gravifonní mašinku zase odvezte, Marte,“ řekl po chvíli mlčení Šéf. „Bude se vám třeba na Ramosu hodit. Já už nějak vyjdu s tím kartáčkem na zuby. A vy mi tu, ženská, neřvěte. Tohle není pohřeb a já už se postarám, aby ještě dlouho nebyl. A vůbec, vy všichni, zmizte odtud! Udělejte místo pro první kolonisty a jejich dobré stařečky. No tak, bude to?“
+
+</section>

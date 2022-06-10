@@ -3,6 +3,8 @@ title: "11\\.\_kapitola"
 contentType: prose
 ---
 
+<section>
+
 > _Nemohl jsem se ubránit smíchu, když jsem slyšel, jak se tu svádějí bitvy podle přísných pravidel; a za příklad věru o mnoho důmyslnější politiky jsem uváděl zvyky naší Evropy, kde vladař neopomine využít jediné výhody; která mu může dopomoci k vítězství._
 
 > — Cyrano z Bergeraku, Cesta na Měsíc
@@ -64,3 +66,5 @@ Aslanovi to také myslelo, ačkoli měl oči trochu zamžené. Kýžená hladina
 „Aha. Když tam shoří on, tak to mají vytrhnout moji kluci, že? Dobře, Šéfe. Poradím se. Jestli se tam něco děje, proletíme Hepteridou jako projímadlo.“
 
 Šéf si pomyslel, že na tak mladého člověka v přítomnosti člověka tak starého mluví Aslan nepříliš vhodně, ale ani ve snu ho nenapadlo, jak podivuhodně správně odhadl velitel Výzkumné skupiny blízkou budoucnost.
+
+</section>
