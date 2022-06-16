@@ -1,0 +1,570 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Blázni z Hepteridy",
+  "author": "Ludvík Souček",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "soucek-blazni-z-hepteridy-631578d",
+  "revision": "631578d",
+  "readingOrder": [
+    "promo.html",
+    "blazni_z_hepteridy_005.html",
+    "blazni_z_hepteridy_006.html",
+    "blazni_z_hepteridy_007.html",
+    "blazni_z_hepteridy_008.html",
+    "blazni_z_hepteridy_009.html",
+    "blazni_z_hepteridy_010.html",
+    "blazni_z_hepteridy_011.html",
+    "blazni_z_hepteridy_012.html",
+    "blazni_z_hepteridy_013.html",
+    "blazni_z_hepteridy_014.html",
+    "blazni_z_hepteridy_015.html",
+    "blazni_z_hepteridy_016.html",
+    "blazni_z_hepteridy_017.html",
+    "blazni_z_hepteridy_018.html",
+    "blazni_z_hepteridy_019.html",
+    "blazni_z_hepteridy_020.html",
+    "blazni_z_hepteridy_021.html",
+    "blazni_z_hepteridy_022.html",
+    "blazni_z_hepteridy_023.html",
+    "blazni_z_hepteridy_024.html",
+    "blazni_z_hepteridy_025.html",
+    "blazni_z_hepteridy_026.html",
+    "blazni_z_hepteridy_027.html",
+    "blazni_z_hepteridy_028.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jun 16 2022 20:57:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655413047153
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "blazni_z_hepteridy_005.html",
+      "toc": []
+    },
+    {
+      "title": "1. kapitola",
+      "file": "blazni_z_hepteridy_005.html",
+      "words": 1857,
+      "chars": 12577,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "blazni_z_hepteridy_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. kapitola",
+      "file": "blazni_z_hepteridy_006.html",
+      "words": 1330,
+      "chars": 8648,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 2,
+      "prev": "blazni_z_hepteridy_005.html",
+      "next": "blazni_z_hepteridy_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. kapitola",
+      "file": "blazni_z_hepteridy_007.html",
+      "words": 2072,
+      "chars": 13678,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 3,
+      "prev": "blazni_z_hepteridy_006.html",
+      "next": "blazni_z_hepteridy_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. kapitola",
+      "file": "blazni_z_hepteridy_008.html",
+      "words": 1318,
+      "chars": 8582,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 4,
+      "prev": "blazni_z_hepteridy_007.html",
+      "next": "blazni_z_hepteridy_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. kapitola",
+      "file": "blazni_z_hepteridy_009.html",
+      "words": 1495,
+      "chars": 9744,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 5,
+      "prev": "blazni_z_hepteridy_008.html",
+      "next": "blazni_z_hepteridy_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6. kapitola",
+      "file": "blazni_z_hepteridy_010.html",
+      "words": 1520,
+      "chars": 9911,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 6,
+      "prev": "blazni_z_hepteridy_009.html",
+      "next": "blazni_z_hepteridy_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. kapitola",
+      "file": "blazni_z_hepteridy_011.html",
+      "words": 1759,
+      "chars": 11666,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 7,
+      "prev": "blazni_z_hepteridy_010.html",
+      "next": "blazni_z_hepteridy_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8. kapitola",
+      "file": "blazni_z_hepteridy_012.html",
+      "words": 1738,
+      "chars": 11134,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 8,
+      "prev": "blazni_z_hepteridy_011.html",
+      "next": "blazni_z_hepteridy_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9. kapitola",
+      "file": "blazni_z_hepteridy_013.html",
+      "words": 1228,
+      "chars": 7911,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 9,
+      "prev": "blazni_z_hepteridy_012.html",
+      "next": "blazni_z_hepteridy_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10. kapitola",
+      "file": "blazni_z_hepteridy_014.html",
+      "words": 5267,
+      "chars": 34482,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 10,
+      "prev": "blazni_z_hepteridy_013.html",
+      "next": "blazni_z_hepteridy_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11. kapitola",
+      "file": "blazni_z_hepteridy_015.html",
+      "words": 2354,
+      "chars": 15597,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 11,
+      "prev": "blazni_z_hepteridy_014.html",
+      "next": "blazni_z_hepteridy_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12. kapitola",
+      "file": "blazni_z_hepteridy_016.html",
+      "words": 2034,
+      "chars": 13702,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 12,
+      "prev": "blazni_z_hepteridy_015.html",
+      "next": "blazni_z_hepteridy_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13. kapitola",
+      "file": "blazni_z_hepteridy_017.html",
+      "words": 2845,
+      "chars": 17989,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 13,
+      "prev": "blazni_z_hepteridy_016.html",
+      "next": "blazni_z_hepteridy_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14. kapitola",
+      "file": "blazni_z_hepteridy_018.html",
+      "words": 1650,
+      "chars": 11024,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 14,
+      "prev": "blazni_z_hepteridy_017.html",
+      "next": "blazni_z_hepteridy_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15. kapitola",
+      "file": "blazni_z_hepteridy_019.html",
+      "words": 2732,
+      "chars": 18006,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 15,
+      "prev": "blazni_z_hepteridy_018.html",
+      "next": "blazni_z_hepteridy_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16. kapitola",
+      "file": "blazni_z_hepteridy_020.html",
+      "words": 1143,
+      "chars": 7587,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 16,
+      "prev": "blazni_z_hepteridy_019.html",
+      "next": "blazni_z_hepteridy_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17. kapitola",
+      "file": "blazni_z_hepteridy_021.html",
+      "words": 1493,
+      "chars": 9699,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 17,
+      "prev": "blazni_z_hepteridy_020.html",
+      "next": "blazni_z_hepteridy_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18. kapitola",
+      "file": "blazni_z_hepteridy_022.html",
+      "words": 1442,
+      "chars": 9294,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 18,
+      "prev": "blazni_z_hepteridy_021.html",
+      "next": "blazni_z_hepteridy_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19. kapitola",
+      "file": "blazni_z_hepteridy_023.html",
+      "words": 2704,
+      "chars": 17251,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 19,
+      "prev": "blazni_z_hepteridy_022.html",
+      "next": "blazni_z_hepteridy_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20. kapitola",
+      "file": "blazni_z_hepteridy_024.html",
+      "words": 1672,
+      "chars": 10797,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 20,
+      "prev": "blazni_z_hepteridy_023.html",
+      "next": "blazni_z_hepteridy_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21. kapitola",
+      "file": "blazni_z_hepteridy_025.html",
+      "words": 2826,
+      "chars": 17642,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 21,
+      "prev": "blazni_z_hepteridy_024.html",
+      "next": "blazni_z_hepteridy_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22. kapitola",
+      "file": "blazni_z_hepteridy_026.html",
+      "words": 1338,
+      "chars": 8387,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 22,
+      "prev": "blazni_z_hepteridy_025.html",
+      "next": "blazni_z_hepteridy_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23. kapitola",
+      "file": "blazni_z_hepteridy_027.html",
+      "words": 1329,
+      "chars": 8256,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 23,
+      "prev": "blazni_z_hepteridy_026.html",
+      "next": "blazni_z_hepteridy_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23. kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "blazni_z_hepteridy_028.html",
+      "words": 43,
+      "chars": 294,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 24,
+      "prev": "blazni_z_hepteridy_027.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 969,
+      "ideas": 18,
+      "role": "colophon",
+      "order": null,
+      "prev": "blazni_z_hepteridy_028.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 45344,
+      "chars": 294861,
+      "ideas": 1130
+    },
+    "chapters": {
+      "words": 45189,
+      "chars": 293858,
+      "ideas": 1109
+    }
+  }
+}
