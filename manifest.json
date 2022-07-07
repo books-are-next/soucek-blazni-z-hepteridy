@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-blazni-z-hepteridy-46af167",
-  "revision": "46af167",
+  "identifier": "soucek-blazni-z-hepteridy-c1d8fb9",
+  "revision": "c1d8fb9",
   "readingOrder": [
     "promo.html",
     "blazni_z_hepteridy_005.html",
@@ -35,11 +35,11 @@
     "blazni_z_hepteridy_026.html",
     "blazni_z_hepteridy_027.html",
     "blazni_z_hepteridy_028.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:27:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980059179
+    "date": "Thu Jul 07 2022 08:39:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183161040
   },
   "documents": [
     {
@@ -523,7 +523,7 @@
       "role": "chapter",
       "order": 24,
       "prev": "blazni_z_hepteridy_027.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -536,11 +536,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 149,
-      "chars": 969,
+      "chars": 968,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "blazni_z_hepteridy_028.html",
       "next": null,
@@ -557,8 +557,8 @@
   ],
   "totals": {
     "all": {
-      "words": 45344,
-      "chars": 294861,
+      "words": 45343,
+      "chars": 294865,
       "ideas": 1130
     },
     "chapters": {
