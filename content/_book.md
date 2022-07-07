@@ -39,7 +39,7 @@ readingOrder:
   - blazni_z_hepteridy_026.html
   - blazni_z_hepteridy_027.html
   - blazni_z_hepteridy_028.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
