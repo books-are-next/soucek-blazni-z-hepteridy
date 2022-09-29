@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-blazni-z-hepteridy-fad071b",
-  "revision": "fad071b",
+  "identifier": "soucek-blazni-z-hepteridy-a146f43",
+  "revision": "a146f43",
   "readingOrder": [
     "promo.html",
     "blazni_z_hepteridy_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:45:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414734664
+    "date": "Thu Sep 29 2022 21:35:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487301555
   },
   "documents": [
     {
@@ -238,7 +238,7 @@
       "title": "10. kapitola",
       "file": "blazni_z_hepteridy_014.html",
       "words": 5267,
-      "chars": 34482,
+      "chars": 34483,
       "ideas": 107,
       "role": "chapter",
       "order": 10,
@@ -558,12 +558,12 @@
   "totals": {
     "all": {
       "words": 45344,
-      "chars": 294861,
+      "chars": 294862,
       "ideas": 1130
     },
     "chapters": {
       "words": 45189,
-      "chars": 293858,
+      "chars": 293859,
       "ideas": 1109
     }
   }
