@@ -197,7 +197,7 @@ Mart cítil, že konečně může přejít k jádru věci.
 
 „Víme o tom,“ kývl stařec. „Rada starších řeší i tuto otázku v souvislosti s oběma vašimi přáteli. Zdá se, že nalezneme styčné body obou… obou mimořádných událostí. Chtěl jste se ještě zeptat, pane Stame, proč jsme Zemi unášeli kosmické koráby a proč jsme raději nepoužívali hyperprostorového tunelu, že?“
 
-Mart přisvědčil s lehkými pocity rozpaků, které sám nedovedl vysvětlit, tím méně je sám před sebou jako zplnomocněncem Galaktické centrály, podnikajícím zcela oprávněné šetření, obhájit. Tylku byl koneckonců jenom stařík ve výstředním rouchu, který se v posledních sto letech patrně velmi činně zúčastnil neomluvitelné krádeže přinejmenším tří kosmoletů a tím – nehledě k jiným důsledkům – i vzniku prvotřídního zmatku v několika sekcích Centrály. Dovedl sice číst nějakým záhadným způsobem myšlenky, ale to by možná (Mart si tím nebyl jist) dokázal šikovný psychiatr nebo varietní artista také. Zároveň však nepochyboval, že by se tenhle děda, třaslavě popíjející čaj, okamžitě stal z jakýchsi naprosto nepochopitelných důvodů středem společnosti například výročních galavečírků kosmické výkonné noblesy a že by bez zřejmého úsilí zastínil nejen nejslavnější kosmonauty, ale i – a to už bylo co říci – ještě daleko slavnější polyvizní hvězdy. Což bylo zřejmě nesmyslné, ale jisté. Credo, quia absurdum[1](./resources/undefined).
+Mart přisvědčil s lehkými pocity rozpaků, které sám nedovedl vysvětlit, tím méně je sám před sebou jako zplnomocněncem Galaktické centrály, podnikajícím zcela oprávněné šetření, obhájit. Tylku byl koneckonců jenom stařík ve výstředním rouchu, který se v posledních sto letech patrně velmi činně zúčastnil neomluvitelné krádeže přinejmenším tří kosmoletů a tím – nehledě k jiným důsledkům – i vzniku prvotřídního zmatku v několika sekcích Centrály. Dovedl sice číst nějakým záhadným způsobem myšlenky, ale to by možná (Mart si tím nebyl jist) dokázal šikovný psychiatr nebo varietní artista také. Zároveň však nepochyboval, že by se tenhle děda, třaslavě popíjející čaj, okamžitě stal z jakýchsi naprosto nepochopitelných důvodů středem společnosti například výročních galavečírků kosmické výkonné noblesy a že by bez zřejmého úsilí zastínil nejen nejslavnější kosmonauty, ale i – a to už bylo co říci – ještě daleko slavnější polyvizní hvězdy. Což bylo zřejmě nesmyslné, ale jisté. Credo, quia absurdum[^1].
 
 Tylku zdvořile nepřerušoval jeho přemítání a tvářil se zcela neproniknutelně. Teprve když Mart skončil úvahy bolestným povzdechem, odpověděl:
 
@@ -216,7 +216,5 @@ Mart polkl.
 „Jak se to vezme, slečno Karnová,“ prohlásil nakonec hlasem naprosto postrádajícím jakýkoli sugestivní optimismus. „Někde se snad, doufejme, vykutálejí.“
 
 * * *
-
-_[1](./resources/undefined) Věřím, protože je to nesmyslné. _Pozn. red.__
-
+[^1]: Věřím, protože je to nesmyslné. _Pozn. red._
 </section>
