@@ -216,5 +216,7 @@ Mart polkl.
 „Jak se to vezme, slečno Karnová,“ prohlásil nakonec hlasem naprosto postrádajícím jakýkoli sugestivní optimismus. „Někde se snad, doufejme, vykutálejí.“
 
 * * *
+
 [^1]: Věřím, protože je to nesmyslné. _Pozn. red._
+
 </section>
