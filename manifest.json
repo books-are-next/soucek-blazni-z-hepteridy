@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-blazni-z-hepteridy-d674c61",
-  "revision": "d674c61",
+  "identifier": "soucek-blazni-z-hepteridy-8782c33",
+  "revision": "8782c33",
   "readingOrder": [
     "promo.html",
     "blazni_z_hepteridy_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:59:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151145890
+    "date": "Mon Oct 10 2022 15:50:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417043310
   },
   "documents": [
     {
@@ -538,7 +538,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 146,
-      "chars": 969,
+      "chars": 970,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -558,7 +558,7 @@
   "totals": {
     "all": {
       "words": 45341,
-      "chars": 294862,
+      "chars": 294863,
       "ideas": 1127
     },
     "chapters": {
