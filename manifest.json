@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-blazni-z-hepteridy-8782c33",
-  "revision": "8782c33",
+  "identifier": "soucek-blazni-z-hepteridy-e8fc573",
+  "revision": "e8fc573",
   "readingOrder": [
     "promo.html",
     "blazni_z_hepteridy_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:50:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417043310
+    "date": "Fri Oct 21 2022 11:43:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352595763
   },
   "documents": [
     {
