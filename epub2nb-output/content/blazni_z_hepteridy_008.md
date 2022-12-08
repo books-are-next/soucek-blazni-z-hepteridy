@@ -6,7 +6,7 @@ contentType: prose
 <section>
 
 > _… byl schopen vydat mě psům napospas, kdybych se nebyl náhodou dovtípil, co je asi proti mně tak poštvalo, totiž sám Měsíc, odkud jsem přiletěl._
-
+>
 > — Cyrano z Bergeraku, Cesta na Měsíc
 
 Přední část člunu se podobala surrealistické kovové plastice nebo obzvláště protipřírodnímu květu masožravé orchideje. Byla roztržena výbuchem, který roztavil a zřejmě úplně rozerval pilotní kabinu, kam asi byla výbušnina vyslána, a v dolejších obytných a přístrojových odděleních změnil všechno v drť a trosky. Tlak byl tak silný, že pokryl celý plášť lehkého a elegantního kosmického plavidla škaredými puchýři a výdutěmi, otevírajícími se na protržených místech jako opuchlé a vyrážkou pokryté rty. Iglú bylo roztrháno na cáry barevných plastických fólií a rozházeno po širém okolí mezi troskami zařízení. Nejblíže od místa, kde Mart zastavil vznášedlo, se povalovala pošetilá duhová bublina Kařiny přilby, ožehnutá a protkaná sítí puklin.
